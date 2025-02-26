@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\commands\\assigntaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\commands\\assigntaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\commands\\sendnotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\commands\\sendnotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\commands\\sendnotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\commands\\sendnotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\webmvc\\views\\projects\\progressreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\projects\\progressreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\webmvc\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\queries\\getprojectprogressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\queries\\getprojectprogressqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\queries\\getprojectprogressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\queries\\getprojectprogressquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\webmvc\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\queries\\getalltasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\queries\\getalltasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\application\\queries\\getalltasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5086B144-AFB6-48B2-9FC3-EA56E16D2419}|Application\\Application.csproj|solutionrelative:application\\queries\\getalltasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\webmvc\\views\\task\\updatetaskstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\task\\updatetaskstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|c:\\users\\cleber.melo\\projetos\\projectmanagementplatform\\webmvc\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6050AE7C-354D-427B-9E06-7E69A5DC42A2}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\AssignTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AssignTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\AssignTaskCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\AssignTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:49:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendNotificationCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\SendNotificationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\SendNotificationCommandHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\SendNotificationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\SendNotificationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:48:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendNotificationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\SendNotificationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\SendNotificationCommand.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Commands\\SendNotificationCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\SendNotificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:47:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Projects\\ProgressReport.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Projects\\ProgressReport.cshtml",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Projects\\ProgressReport.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Projects\\ProgressReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T16:47:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:46:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProjectProgressQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetProjectProgressQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetProjectProgressQueryHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetProjectProgressQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetProjectProgressQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:44:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProjectProgressQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetProjectProgressQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetProjectProgressQuery.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetProjectProgressQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetProjectProgressQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:44:00.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T16:42:16.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetAllTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAllTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetAllTasksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAllTasksQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:39:55.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetAllTasksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAllTasksQuery.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\Application\\Queries\\GetAllTasksQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAllTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:39:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTaskStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Task\\UpdateTaskStatus.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Task\\UpdateTaskStatus.cshtml",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Views\\Task\\UpdateTaskStatus.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Task\\UpdateTaskStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T16:39:10.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\cleber.melo\\projetos\\ProjectManagementPlatform\\WebMVC\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:38:52.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

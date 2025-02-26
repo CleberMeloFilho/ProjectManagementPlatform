@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ProjectManagementPlatform.Application.Queries.ProjectProgressReport>
+
+<h2>Project Progress Report</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Total Tasks</th>
+            <th>Completed Tasks</th>
+            <th>Progress (%)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model)
+        {
+            <tr>
+                <td>@report.ProjectName</td>
+                <td>@report.TotalTasks</td>
+                <td>@report.CompletedTasks</td>
+                <td>@report.ProgressPercentage.ToString("0.00")</td>
+            </tr>
+        }
+    </tbody>
+</table>
